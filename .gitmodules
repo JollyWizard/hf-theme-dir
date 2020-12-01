@@ -1,0 +1,6 @@
+[submodule "_s-child"]
+	path = _s-child
+	url = https://github.com/JollyWizard/hf-theme-_s-child.git
+[submodule "_s"]
+	path = _s
+	url = https://github.com/Automattic/_s.git
